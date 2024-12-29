@@ -1,0 +1,6 @@
+# 影视项目理财程序影视投资理财程序金融投资项目程序
+
+example.com，拍前请慎重，购买源码前有演示站的先测试演示站，源码一切功能以演示站为准！（源码一般不包含演示站填充的数据图片素材）<br>example.com，请勿用于非法用途，不得违反国家法律，购买后用作他用，一切法律责任与本店无关！<br>example.com，都是亲测上架的，大部分都有演示站，请耐心测试演示站。演示服务器配置一般，站点很多，可能会比较卡，请耐心测试。<br>example.com，不接受远程操作，安装仅限搭建到服务器，能访问站点，如果需要对接支付充值、短信、网站名称及图片修改设置等，另外协商费用。<br>5、确定演示站是自己想要的再下单，演示或者介绍和实际可能有轻微差异，忘悉知。源码具体功能请联系客服获取参考以客服提供的演示站为准。由于源码具有可复制性，拒绝恶意退款，有问题请先联系客服处理解决问题，谢谢理解。<br>example.com。拍下即代表知晓、小本经营、谢谢大家支持理解，以上为维权的依据。<br>免责声明：本源码产品请勿用于非法运营，购买用户严禁将本产品用于与中国现行法律相违背的一切行为；否则，请停止购买，如坚持使用一切法律责任及所有后果均由购买使用方承担，与本店无关，并且本店有权停止一切售后服务。本店针对本源码提供技术支持，免费安装搭建维护，提供产品问题解答、bug修复、后续版本升级更新。<br>影视投资程序<br>优化项目进度，优化个人中心，可以上手运行<br>本店程序均亲自测试，不会有任何的后门病毒，可放心使用，售后无忧。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/BFZGc" style="color: red;">https://mega-file.org/BFZGc</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
